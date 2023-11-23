@@ -3,4 +3,4 @@ SMBTI22 resolusi
 - membuat portofolio dan project setiap bulan
 - membuat laporan kegiatan pengembangan web
 - membuat website gereja 
-- membuat website e-commerce
+- membuat game sederhana dengan javascript
